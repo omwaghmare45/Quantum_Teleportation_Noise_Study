@@ -133,9 +133,9 @@ At 20% depolarizing noise:
 
 | Input State | Fidelity |
 |---|---:|
-| |0> | 83.0% |
-| |1> | 82.4% |
-| |+> | 70.8% |
+| `\|0⟩` | 83.0% |
+| `\|1⟩` | 82.4% |
+| `\|+⟩` | 70.8% |
 
 ### Fidelity Comparison
 
