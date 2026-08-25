@@ -167,17 +167,19 @@ Quantum_Teleportation_Noise_Study/
 │   ├── experiment_2.md
 │   └── experiment_3.md
 │
-├── results/
-│   ├── distribution_0_percent.png
-│   ├── distribution_10_percent.png
-│   ├── distribution_20_percent.png
-│   ├── QC_Success vs Bit_Flip_Noise.png
-│   ├── noise_model_comparison.png
-│   └── input_state_fidelity.png
+├── notebook/
+│   ├── experiment_1_bit_flip_noise.ipynb
+│   ├── experiment_2_depolarizing_noise.ipynb
+│   └── experiment_3_input_states.ipynb
 │
-└── experiment_1_bit_flip_noise.ipynb
+└── results/
+    ├── QC_Success vs Bit_Flip_Noise.png
+    ├── distribution_0_percent.png
+    ├── distribution_10_percent.png
+    ├── distribution_20_percent.png
+    ├── noise_model_comparison.png
+    └── input_state_fidelity.png
 ```
-
 ---
 
 # Limitations
